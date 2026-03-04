@@ -1,11 +1,14 @@
 [![Hello world!](./img/greet.gif)](https://github.com/buneeisslo)
 
 ### 🤝 Yoo, I'm Abhishek
+> *also go by bunee*
 
-I also go by bunee. Vibe coder. I love ~JavaScript~ TypeScript and all the baggage that comes with it. I'm freelancing at the moment, and open to teaming up or just having a quick chat. Feel free to shoot me a message anytime on [X](https://x.com/awwbhi2) or [LinkedIn](https://www.linkedin.com/in/2abhi/) – I'm all ears :)
+
+Vibe coder. I bring the vibes, AI assists. I love ~JavaScript~ TypeScript and all the baggage that comes with it. I'm freelancing at the moment, and open to teaming up or just having a quick chat. Feel free to shoot me a message anytime on [X](https://x.com/awwbhi2) or [LinkedIn](https://www.linkedin.com/in/2abhi/) – I'm all ears :)
 
 ### Current projects
-- 🙂 [HeyYou]() - AI greeter for physical spaces
+- 🙂 [HeyYou](https://github.com/handshek/hey-you/) - AI greeter for physical spaces
+- 🪾 [Gitfo](https://github.com/handshek/gitfo) - A small cli tool to get git info
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buneeisslo&label=Profile%20views&color=0e75b6&style=flat" alt="buneeisslo" /> </p>
 
