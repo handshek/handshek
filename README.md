@@ -11,6 +11,7 @@ Vibe coder. I bring the vibes, AI assists. I love ~JavaScript~ TypeScript and al
 - 🪾 [Gitfo](https://github.com/handshek/gitfo) - A small cli tool to get git info
 - ⏳ [Year Meter](https://github.com/handshek/year-meter) - Every new tab, a quiet nudge to stop procrastinating
 - 🙂 [Sentimeter](https://github.com/handshek/sentimeter) - Add feedback widgets to any webapp, fast and easy
+- 📜 [SMRY](https://smry.ai/) - The best article reading app on the planet (Contributing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buneeisslo&label=Profile%20views&color=0e75b6&style=flat" alt="buneeisslo" /> </p>
 
