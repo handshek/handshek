@@ -7,7 +7,7 @@
 
 
 
-Product engineer with a soft spot for thoughtful interfaces and making things move. I love ~~JavaScript~~ TypeScript and all the baggage that comes with it. Currently contributing to SMRY across development, UI/UX, and the little details that make software feel good to use.
+I build web products end to end, with a soft spot for thoughtful interfaces and making things move. I love ~~JavaScript~~ TypeScript and all the baggage that comes with it. Currently contributing to SMRY across development, UI/UX, and the little details that make software feel good to use.
 
 Open to freelance work, teaming up, or just having a good conversation. Feel free to reach out on [X](https://x.com/awwbhi2) or [LinkedIn](https://www.linkedin.com/in/2abhi/)—I'm all ears :)
 
